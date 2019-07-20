@@ -1,0 +1,374 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "from __future__ import unicode_literals\n\nfrom django.db import models\n\n# Create your models here.\nclass profile(models.Model):\n\tname = models.CharField(max_length=120)\n\n\n\tdef __unicode__ (self)\n\treturn self.name",
+			"file": "src/profiles/models.py",
+			"file_size": 210,
+			"file_write_time": 131608651853681898,
+			"settings":
+			{
+				"buffer_size": 211,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/p37/tryTen/src"
+	],
+	"file_history":
+	[
+		"/home/p37/tryTen/src/tryTen/settings.py",
+		"/home/p37/tryTen/tryTen.sublime-project",
+		"/home/p37/Django-tutorials/mysite/webapp/views.py",
+		"/home/p37/jobs_site/jobs_app/urls.py",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/index.html",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/index (copy).html",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/about.html",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/about us.html",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/contact us.html",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/post defense.html",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/post offense.html",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/post privacy policy.html",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/web post.html",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/post investigate.html",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/develop price post.html",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/gulpfile.js",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/infosec udemy HOMEPAGE website.html",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/package.json",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/post data.html",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/post blog.html",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/post blog 2.html",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/post blog 3.html",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/post blog 4.html",
+		"/home/p37/Django-tutorials/mysite/webapp/apps.py",
+		"/home/p37/Django-tutorials/mysite/mysite/settings.py",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/post blog 5.html",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/post blog 6.html",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/post blog 7.html",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/index infosec.html",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/infosec price post.html",
+		"/home/p37/Django-tutorials/mysite/manage.py",
+		"/home/p37/Django-tutorials/mysite/mysite/urls.py",
+		"/home/p37/Django-tutorials/mysite/webapp/urls.py",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/post advertising.html",
+		"/home/p37/MLantivirus/antivirus_demo-master/learning.py",
+		"/home/p37/my-ico/contracts/Migrations.sol",
+		"/home/p37/my-ico/contracts/DemoCoinCrowdSale.sol",
+		"/home/p37/my-ico/contracts/MetaCoin.sol",
+		"/home/p37/my-ico/contracts/ConvertLib.sol",
+		"/home/p37/my-ico/contracts/DemoCoin.sol",
+		"/home/p37/MLantivirus/antivirus_demo-master/checkmanalyzer.py",
+		"/home/p37/MLantivirus/antivirus_demo-master/checkpe.py",
+		"/home/p37/MLantivirus/antivirus_demo-master/generatedata.py",
+		"/home/p37/MLantivirus/MLantivirus.ipynb",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/css/bootstrap-theme.min.css.map",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/css/bootstrap-theme.min.css",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/css/bootstrap-theme.css.map",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/css/bootstrap-theme.css",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/css/bootstrap.min.css.map",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/css/bootstrap.min.css",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/js/jqBootstrapValidation.js",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/css/bootstrap.css.map",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/css/clean-blog.css",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/css/bootstrap.css",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/css/clean-blog.min.css",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/css/custom.css",
+		"/home/p37/Desktop/startbootstrap-clean-blog-master/index.html",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/css/custom COMPARISON.css",
+		"/home/p37/Desktop/startbootstrap-agency-gh-pages/css/agency.css",
+		"/home/p37/Desktop/startbootstrap-agency-gh-pages/index.html",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/infosec udemy COMPARISON TEMPLATE.html",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/infosec price post",
+		"/home/p37/Desktop/startbootstrap-agency-gh-pages/css/agency.min.css",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/infosec udemy investigation.html",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/infosec udemy MAIN website.html",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/post.html",
+		"/home/p37/Desktop/template php version TEST TO MERGED WEBSITES/functions.php",
+		"/home/p37/Desktop/template php version TEST TO MERGED WEBSITES/header.php",
+		"/home/p37/Desktop/template php version TEST TO MERGED WEBSITES/footer.php",
+		"/home/p37/Desktop/template php version TEST TO MERGED WEBSITES/about.php",
+		"/home/p37/Desktop/template php version TEST TO MERGED WEBSITES/index.php",
+		"/home/p37/Desktop/template php version TEST TO MERGED WEBSITES/post.php",
+		"/home/p37/Desktop/template php version TEST TO MERGED WEBSITES/config.php",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/js/clean-blog.js",
+		"/home/p37/Desktop/udemy INFOSEC bootstrap/css/custom.css",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/less/clean-blog.less",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/infosec udemy website offence.html",
+		"/home/p37/Desktop/udemy INFOSEC bootstrap/js/transparent background.js",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/js/transparent background.js",
+		"/home/p37/Desktop/TEST TO MERGED WEBSITES/js/bootstrap.js",
+		"/home/p37/Desktop/startbootstrap-clean-blog-master/contact.html",
+		"/home/p37/Desktop/startbootstrap-clean-blog-master/about.html",
+		"/home/p37/Desktop/udemy INFOSEC bootstrap/infosec udemy investigation.html",
+		"/home/p37/Desktop/udemy INFOSEC bootstrap/infosec udemy website offence.html",
+		"/home/p37/Desktop/udemy INFOSEC bootstrap/infosec udemy HOMEPAGE website.html",
+		"/home/p37/Desktop/udemy INFOSEC bootstrap/infosec udemy COMPARISON TEMPLATE.html",
+		"/home/p37/Desktop/udemy INFOSEC bootstrap/js/bootstrap.js",
+		"/home/p37/Desktop/udemy INFOSEC bootstrap/infosec defense",
+		"/home/p37/Desktop/startbootstrap-clean-blog-master/css/clean-blog.css",
+		"/home/p37/Desktop/udemy INFOSEC bootstrap/infosec udemy website.html",
+		"/home/p37/Desktop/udemy INFOSEC bootstrap/infosec udemy MAIN website.html"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"argparse",
+			"@",
+			"@med",
+			"engine",
+			"die",
+			"validation",
+			".css",
+			"css",
+			"dust",
+			"outsourcing",
+			"one",
+			"navbar",
+			"css",
+			"compliance",
+			"main",
+			"contact",
+			"h1",
+			"footer",
+			"index",
+			"brand",
+			"/form",
+			"body",
+			"background",
+			"container-narrow",
+			"narrow",
+			".js",
+			"body",
+			"cream",
+			"footer",
+			"style",
+			"footer",
+			"home",
+			"footer",
+			"offe",
+			"body",
+			"mana"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/profiles/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39,
+								39
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 41.0
+	},
+	"pinned_build_system": "",
+	"project": "tryTen.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 172.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
